@@ -1,0 +1,98 @@
+.Content_1{
+    display: flex;
+    justify-content: center;
+}
+
+.backG1{
+    position: relative;
+    text-align: center;
+    background-image: url(./Bg1.png);
+    height: 900px;
+    width: 49%;
+}
+
+.forest{
+    color: bisque;
+    font-size: 2rem;
+    font-family: "playfair Display",serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-bottom: 20px;
+}
+
+.edit{
+    color: bisque;
+    font-size: 58px;
+    font-family: "PT Serif",serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px;
+}
+
+.gift{
+    color: cornflowerblue;
+    font-size: 1.8rem;
+    font-family: "PT Serif",serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 15px;
+}
+
+.banaras{
+    color: beige;
+    font-family: "PT Serif",serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 15px;
+}
+
+.festive_btn{
+    color: bisque;
+    font-size: 20px;
+    background-color: #611b1b;
+    font-weight: 600;
+    border: none;
+    padding: 9px;
+    border-radius: 6px;
+}
+
+.Content_2{
+    display: flex;
+    justify-content: center;
+}
+
+.backG2{
+    position: relative;
+    text-align: center;
+    background-image: url(./Bg2.png);
+    height: 345px;
+    width: 49%;
+    top: 10px;
+}
+
+.transport{
+    color: rgb(148, 41, 41);
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-size: 38px;
+    padding-top: 56px;
+    padding-bottom: 25px;
+}
+
+.online{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 28px;
+    padding-top: 25px;
+}
+
+.Content_3{
+    display: flex;
+    justify-content: center;
+}
+
+.connect, .subscribe, .terms{
+    font-family: "PT Serif", serif;
+    font-style: normal;
+}
